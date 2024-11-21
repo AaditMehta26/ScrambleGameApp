@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">scrambleapp</string>
+    <string name="check_word">Check Word</string>
+    <string name="result">Result</string>
+    <string name="score_0">Score: 0</string>
+    <string name="scrambled_word">Scrambled Word</string>
+</resources>
